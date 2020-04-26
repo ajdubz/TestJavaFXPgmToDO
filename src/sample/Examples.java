@@ -12,7 +12,7 @@ import javafx.beans.value.ObservableValue;
 public class Examples {
     public static void main(String[] args) {
 
-        //Property examples
+        //Property examples for later
         SimpleIntegerProperty intProp = new SimpleIntegerProperty();
 
         intProp.set(15);
